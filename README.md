@@ -1,4 +1,3 @@
 # Spring-Cloud
 
-学习Spring Cloud的记录已经一些总结。
-爬过的坑。
+# 学习Spring Cloud的记录以及一些总结。爬过的坑。
