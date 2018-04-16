@@ -32,9 +32,9 @@ turbine.clusterNameExpression= new String("default") 默认default
 	<artifactId>spring-boot-starter-actuator</artifactId>
 </dependency>
 <dependency>
-		<groupId>org.springframework.cloud</groupId>
-		<artifactId>spring-cloud-starter-turbine</artifactId>
-	</dependency>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-starter-turbine</artifactId>
+</dependency>
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-netflix-turbine</artifactId>
